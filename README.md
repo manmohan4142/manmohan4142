@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manmohan4142&label=Profile%20views&color=0e75b6&style=flat" alt="manmohan4142" /> </p>
 
-- 🌱 I’m currently learning **React Native , Mongo DB**
-
 - 📫 How to reach me **manmohandhal7@gmail.com**
 
 - ⚡ Fun fact **Creating new things**
